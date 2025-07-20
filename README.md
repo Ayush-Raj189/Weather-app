@@ -1,12 +1,43 @@
-# React + Vite
+ext
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You can copy this entire content and paste it into your `README.md` file. Just remember to:
+1. Replace placeholder links with your actual project links
+2. Add your name in the footer
+3. Include a screenshot (rename "screenshot.png" to your actual screenshot filename)
+4. Add your actual LICENSE file if needed
 
-Currently, two official plugins are available:
+The emojis and formatting will make your README visually appealing on GitHub!
+give this whole thigngs together with proper styling that all dont appear in same line style it perfectly
+Here's a perfectly styled README.md with proper formatting and spacing that won't appear in the same line:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+markdown
+# 🌦️ Weather App
 
-## Expanding the ESLint configuration
+A simple and elegant weather application built with React that displays current weather conditions for any city worldwide.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- **City Search** - Find weather by city name
+- **Live Temperature** - Displays in °C with feels-like
+- **Visual Weather Icons** - Clear, cloud, rain, snow etc.
+- **Humidity Level** - Current air moisture percentage
+- **Wind Speed** - Current wind conditions in km/h
+- **Responsive Design** - Works on mobile and desktop
+
+---
+
+## 🛠️ Technologies Used
+
+<div align="center">
+
+| Frontend  | API       | Tools       |
+|-----------|-----------|-------------|
+| React     | OpenWeatherMap | Vite       |
+| CSS3      |           | Git         |
+| JavaScript|           | npm         |
+
+</div>
+
+---
