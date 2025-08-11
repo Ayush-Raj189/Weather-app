@@ -28,4 +28,30 @@ A simple and elegant weather application built with React that displays current 
 
 </div>
 
----
+⚙️ How It Works
+User Search — The user types a city name and clicks the search icon.
+API Request — Sends a fetch request to OpenWeatherMap API with the city name.
+Data Processing — Extracts temperature, humidity, wind speed, and weather icon.
+UI Update — Displays the fetched data with a clean and responsive design.
+
+## 📦 Installation  
+1. **Clone the Repository**  
+   git clone https://github.com/yourusername/react-weather-app.git
+   cd react-weather-app
+   
+2.Install Dependency
+  npm install
+
+3.Add Environment Variables
+Create a .env file in the project root and add your API key:
+  VITE_APP_ID=your_openweathermap_api_key
+
+4.Run the App
+   npm run dev
+
+📌 API Reference
+OpenWeatherMap API — https://openweathermap.org/api
+Example request:https://api.openweathermap.org/data/2.5/weather?q=London&units=metric&appid=YOUR_API_KEY
+   
+📜 License
+This project is free to use and open source.
