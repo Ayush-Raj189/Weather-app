@@ -5,6 +5,15 @@ A simple and elegant weather application built with React that displays current 
 
 ---
 
+## 🚀 Demo
+
+🔗 **[Live Demo](https://weather-app-gilt-ten-69.vercel.app/)**
+
+![Weather App Screenshot](![Uploading image.png…]()
+)
+
+> Try it live! Search for any city to see real-time weather data.https://weather-app-gilt-ten-69.vercel.app/
+
 ## ✨ Features
 
 - **City Search** - Find weather by city name
