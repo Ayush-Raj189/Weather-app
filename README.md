@@ -9,9 +9,6 @@ A simple and elegant weather application built with React that displays current 
 
 🔗 **[Live Demo](https://weather-app-gilt-ten-69.vercel.app/)**
 
-![Weather App Screenshot]([!Uploading image.png…]()
-)
-
 ## ✨ Features
 
 - **City Search** - Find weather by city name
