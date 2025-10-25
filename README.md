@@ -1,4 +1,4 @@
-
+<img width="953" height="1276" alt="image" src="https://github.com/user-attachments/assets/140680a4-d77d-4e9d-926c-50eb6acfbf17" />
 # 🌦️ Weather App
 
 A simple and elegant weather application built with React that displays current weather conditions for any city worldwide.
@@ -9,10 +9,8 @@ A simple and elegant weather application built with React that displays current 
 
 🔗 **[Live Demo](https://weather-app-gilt-ten-69.vercel.app/)**
 
-![Weather App Screenshot](![Uploading image.png…]()
+![Weather App Screenshot]([Uploading image.png…]()
 )
-
-> Try it live! Search for any city to see real-time weather data.https://weather-app-gilt-ten-69.vercel.app/
 
 ## ✨ Features
 
